@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="mileage",
-    version="0.1.0",
+    version="0.2.0",
     author="Matthieu Marshall",
     author_email="matthieu.marshall@gmail.com",
     description="Dashboard for my running mileage.",
