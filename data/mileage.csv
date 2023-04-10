@@ -1,4 +1,4 @@
-Date,Day of week,km per day,moving average ,moving sum,coloured scale of moving sum,change in moving sum
+Date,Day of week,kilometres,moving average ,moving sum,coloured scale of moving sum,change in moving sum
 12/02/2022,Saturday,6.0,6.0,6.0,6.0,
 13/02/2022,Sunday,0.0,0.0,0.0,0.0,0.0
 14/02/2022,Monday,0.0,0.0,0.0,0.0,0.0
